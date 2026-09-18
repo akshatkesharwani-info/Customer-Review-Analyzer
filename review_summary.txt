@@ -1,0 +1,26 @@
+**Top 5 recurring complaints (what customers keep grumbling about)**  
+
+| # | Complaint | Frequency cue in the reviews | Why it hurts the shopper experience |
+|---|-----------|------------------------------|--------------------------------------|
+| 1️⃣ | **Fit is wildly off‑scale** – items run too large, are overly boxy/short, or flare in the wrong places (shoulder‑fat sleeves, “mushroom” tops, huge‑but‑short coats). | Mentioned in ≥ 12 reviews. | Customers can’t wear the piece, have to return it, and lose confidence in the brand’s size chart. |
+| 2️⃣ **Fabric feels cheap or wrong** – chemical/“plastic” smell, excessive polyester, stiff or too‑stretchy material, rapid pilling, thin/see‑through texture. | Appears in ≥ 10 reviews. | The garment looks nice on the model but feels cheap in‑hand, leading to disappointment and a perception of low value for the price. |
+| 3️⃣ **Construction defects** – holes after one wear, torn tags, loose threads, puffy‑paint embellishments that flake off, faulty zippers, missing elastic or hooks, uneven seams. | Cited in ≥ 9 reviews. | These flaws make the item look unfinished, cause wear‑and‑tear instantly, and raise doubts about quality‑control. |
+| 4️⃣ **Mis‑leading presentation / “looks better on the hanger”** – colour/fit different from the website photo, overly drapey on thin bodies but “fat‑making” on larger chests, washed‑out hues. | Noted in ≥ 8 reviews. | Shoppers feel duped, leading to returns and lower trust in the brand’s visuals. |
+| 5️⃣ **Lack of functional details** – no waist elastic/tringles on leggings, sleeves not lined, missing interior hooks/buttons, pockets that bulge, missing adjustability on straps. | Reported in ≥ 6 reviews. | The missing details make otherwise‑lovable designs unusable for daily wear. |
+
+---
+
+**Top 3 feature requests (what customers keep asking for)**  
+
+| # | Requested feature | Rationale behind the request |
+|---|-------------------|------------------------------|
+| 1️⃣ **Higher‑quality, natural‑fiber fabrics** – more cotton, linen, silk, or heavier blends; less cheap polyester/nylon; fabrics that don’t smell, pill or feel “plastic”. | Customers love the design but abandon it when the material feels cheap; they’re willing to pay a premium for a better hand‑feel and durability. |
+| 2️⃣ **More accurate, inclusive sizing & fit options** – a tighter/true‑to‑size cut, petite/plus‑size specifics, adjustable elements (e.g., removable straps, side seams), and clearer measurement guides. | Repeated “huge”, “boxy”, and “short” complaints indicate the current size chart doesn’t map to real bodies; shoppers want a fit that flatters their shape without drastic alterations. |
+| 3️⃣ **Improved construction & functional details** – reinforced seams and tags, reliable zippers, interior hooks or buttons to keep coat edges aligned, waistbands with elastic or drawstrings, and properly dried/secure embellishments. | Faulty hardware and loose stitching cause premature damage; adding these small but vital touches would boost perceived quality and reduce returns. |
+
+**Take‑away for the product team:**  
+- **Audit the size chart and cut patterns** (especially sleeves, shoulders, and length) to reduce the “huge/boxy” syndrome.  
+- **Shift material sourcing** toward natural or higher‑grade blends and eliminate the strong chemical odor.  
+- **Tighten QC on seams, tags, zippers, and decorative paints**; add missing functional hardware (elastic waistbands, interior hooks) where the design calls for it.  
+
+Addressing these three high‑impact areas should cut the most common complaints and satisfy the top‑ranked feature requests.
